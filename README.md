@@ -1,3 +1,3 @@
-# xbwbbs
+xbwbbs
 
-# telnet bbs.newxbw.cn 2223
+telnet bbs.newxbw.cn 2223
